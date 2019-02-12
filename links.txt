@@ -1,0 +1,9 @@
+(Preprocessed datasets) raw.zip:
+
+https://mega.nz/#!hwJUDQiZ!HGopXXd4HJkHxyL26rhGmVuGv7WXOYS1sOW8iHi45BE
+
+
+
+(Windows Hadoop binaries) winutils.zip
+
+https://mega.nz/#!1t4lDDRb!JGCAPSt8UdoD74MOEY1BICUveyJJgdQPlwzALqKeQLk
